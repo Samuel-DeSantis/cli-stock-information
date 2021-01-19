@@ -1,0 +1,66 @@
+<div class="eYanAe" role="region" aria-labelledby="key-stats-heading">
+<h2 class="yV3rjd" id="key-stats-heading">Key stats</h2>
+<div class="gyFHrc">
+<div class="mfs7Fc"><div class="D0hyNe">
+<div class="iYuiXc">Previous close</div>
+<div class="ChROwb">The last closing price</div>
+</div></div>
+<div class="P6K39c">$128.91</div>
+</div>
+<div class="gyFHrc">
+<div class="mfs7Fc"><div class="D0hyNe">
+<div class="iYuiXc">Day range</div>
+<div class="ChROwb">The difference between the high and low prices over the past day</div>
+</div></div>
+<div class="P6K39c">$127.00 - $130.22</div>
+</div>
+<div class="gyFHrc">
+<div class="mfs7Fc"><div class="D0hyNe">
+<div class="iYuiXc">Year range</div>
+<div class="ChROwb">The difference between the high and low prices over the past 52 weeks</div>
+</div></div>
+<div class="P6K39c">$53.15 - $138.79</div>
+</div>
+<div class="gyFHrc">
+<div class="mfs7Fc"><div class="D0hyNe">
+<div class="iYuiXc">Market cap</div>
+<div class="ChROwb">A valuation method that multiplies the price of a company's stock by the total number of outstanding shares.</div>
+</div></div>
+<div class="P6K39c">2.14T USD</div>
+</div>
+<div class="gyFHrc">
+<div class="mfs7Fc"><div class="D0hyNe">
+<div class="iYuiXc">Volume</div>
+<div class="ChROwb">The average number of shares traded each day over the past 30 days</div>
+</div></div>
+<div class="P6K39c">105.91M</div>
+</div>
+<div class="gyFHrc">
+<div class="mfs7Fc"><div class="D0hyNe">
+<div class="iYuiXc">P/E ratio</div>
+<div class="ChROwb">The ratio of current share price to trailing twelve month EPS that signals if the price is high or low compared to other stocks</div>
+</div></div>
+<div class="P6K39c">38.82</div>
+</div>
+<div class="gyFHrc">
+<div class="mfs7Fc"><div class="D0hyNe">
+<div class="iYuiXc">Dividend yield</div>
+<div class="ChROwb">The ratio of annual dividend to current share price that estimates the dividend return of a stock</div>
+</div></div>
+<div class="P6K39c">0.64%</div>
+</div>
+<div class="gyFHrc">
+<div class="mfs7Fc"><div class="D0hyNe">
+<div class="iYuiXc">CDP Climate Change Score</div>
+<div class="ChROwb">A score provided by CDP (formerly the Carbon Disclosure Project) that rates a company on its climate transparency and performance</div>
+</div></div>
+<div class="P6K39c"><a class="tBHE4e" href="https://www.cdp.net/en/responses/865">A</a></div>
+</div>
+<div class="gyFHrc">
+<div class="mfs7Fc"><div class="D0hyNe">
+<div class="iYuiXc">Primary exchange</div>
+<div class="ChROwb">Listed exchange for this security</div>
+</div></div>
+<div class="P6K39c">NASDAQ</div>
+</div>
+</div>
