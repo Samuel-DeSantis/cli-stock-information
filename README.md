@@ -1,7 +1,7 @@
 # cli-stock-information
 Summary: Provides information for the requested NASDAQ stock symbol(s). 
 
-![Flow Chart](https://github.com/Samuel-DeSantis/cli-stock-information/blob/main/flow_chart.png)
+![Flow Chart](https://github.com/Samuel-DeSantis/cli-stock-information/blob/main/flow_chart.PNG)
 
 ## Scraping Stock Information: Google Finance
 Stock information scraped from [Google Finance](https://www.google.com/finance).
