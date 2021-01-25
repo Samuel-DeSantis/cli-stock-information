@@ -2,7 +2,7 @@ require 'pry'
 require_relative './google_finance.rb'
 
 class Stock
-    attr_accessor :symbol
+    attr_accessor :symbol, :key_stats
 
     @@all = []
 
@@ -13,7 +13,7 @@ class Stock
 
     def load_key_stats
         new_stock_request = GoogleFinance.new(@symbol)
-        new_stock_request.scrape_key_stats
+        @key_stats = new_stock_request.scrape_key_stats
     end
     
     def display_key_stats
@@ -30,5 +30,5 @@ class Stock
         @@all
     end
 end
-#new_stock = Stock.new("aapl")
+
 #binding.pry
