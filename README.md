@@ -1,5 +1,6 @@
 # cli-stock-information
 Summary: Provides information for the requested NASDAQ stock symbol(s).
+
 Youtube Demo: https://youtu.be/C-1KEEZMEZw
 
 ![Flow Chart](https://github.com/Samuel-DeSantis/cli-stock-information/blob/main/flow_chart.PNG)
