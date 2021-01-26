@@ -17,5 +17,4 @@ NASDAQ market.
 
 ## Creating a Stock Class
 
-##License
-[##License](https://github.com/Samuel-DeSantis/cli-stock-information/blob/main/LICENSE).
+## [License](https://github.com/Samuel-DeSantis/cli-stock-information/blob/main/LICENSE).
