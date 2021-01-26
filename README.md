@@ -16,3 +16,6 @@ probably go for a big name company like Apple or Microsoft, which are both in th
 NASDAQ market.
 
 ## Creating a Stock Class
+
+##License
+[##License](https://github.com/Samuel-DeSantis/cli-stock-information/blob/main/LICENSE).
