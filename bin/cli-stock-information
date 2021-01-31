@@ -1,3 +1,6 @@
 #!/usr/bin/env ruby
 
-require_relative '..config/environment'
+require "bundler/setup"
+require_relative "../lib/cli-stock-information.rb"
+
+Stock_Information::CLI.new.call
