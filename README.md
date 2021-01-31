@@ -1,5 +1,7 @@
 # cli-stock-information
-Summary: Provides information for the requested NASDAQ stock symbol(s). 
+Summary: Provides information for the requested NASDAQ stock symbol(s).
+
+Youtube Demo: https://youtu.be/C-1KEEZMEZw
 
 ![Flow Chart](https://github.com/Samuel-DeSantis/cli-stock-information/blob/main/flow_chart.PNG)
 
@@ -14,3 +16,5 @@ probably go for a big name company like Apple or Microsoft, which are both in th
 NASDAQ market.
 
 ## Creating a Stock Class
+
+## [License](https://github.com/Samuel-DeSantis/cli-stock-information/blob/main/LICENSE).
